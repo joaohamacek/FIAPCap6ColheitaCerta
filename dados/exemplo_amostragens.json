@@ -1,0 +1,145 @@
+[
+  {
+    "id": "01df07f0-5695-5046-b9c0-4b7336b94718",
+    "talhao": "T-01",
+    "frente": "COLHEDORA-01",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 15.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 14.5
+  },
+  {
+    "id": "d36d32ed-8cce-5c56-9fa5-226dc284d7fd",
+    "talhao": "T-02",
+    "frente": "COLHEDORA-01",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 16.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 12.4
+  },
+  {
+    "id": "9778cb1c-f55b-5ded-afbc-6dd2795e3882",
+    "talhao": "T-03",
+    "frente": "COLHEDORA-01",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 17.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 16.0
+  },
+  {
+    "id": "95ff5eed-3ddc-5277-a52e-047cac5e6188",
+    "talhao": "T-04",
+    "frente": "COLHEDORA-01",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 18.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 13.0
+  },
+  {
+    "id": "2d09c094-0130-5198-8047-f82450eca292",
+    "talhao": "T-05",
+    "frente": "COLHEDORA-02",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 19.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 11.3
+  },
+  {
+    "id": "e2916043-7efb-5155-9674-78a1a620ed62",
+    "talhao": "T-06",
+    "frente": "COLHEDORA-02",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 20.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 7.1
+  },
+  {
+    "id": "6a3d3819-83ec-52b9-b7e7-c1556e4c385b",
+    "talhao": "T-07",
+    "frente": "COLHEDORA-02",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 21.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 8.2
+  },
+  {
+    "id": "0440e4df-8989-5e31-942e-219ee49ed682",
+    "talhao": "T-08",
+    "frente": "COLHEDORA-02",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 22.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 9.0
+  },
+  {
+    "id": "017a2f54-73ed-5c79-b1ad-9dfb20fe3317",
+    "talhao": "T-09",
+    "frente": "COLHEDORA-03",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 23.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 4.2
+  },
+  {
+    "id": "bba6cef4-b0de-5c73-9d98-ed2e93bcf24e",
+    "talhao": "T-10",
+    "frente": "COLHEDORA-03",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 24.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 5.0
+  },
+  {
+    "id": "5fa4dde8-cc15-551b-bc76-f124489fa30c",
+    "talhao": "T-11",
+    "frente": "EQUIPE-MANUAL-A",
+    "data": "12/10/2026",
+    "tipo": "MANUAL",
+    "area_colhida_ha": 25.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 2.5
+  },
+  {
+    "id": "59a8985b-b8c8-5e10-b32b-a796d699e93c",
+    "talhao": "T-12",
+    "frente": "EQUIPE-MANUAL-A",
+    "data": "12/10/2026",
+    "tipo": "MANUAL",
+    "area_colhida_ha": 26.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 3.2
+  },
+  {
+    "id": "7f8afcb4-0a87-4521-95e7-f72c801ff233",
+    "talhao": "TALHAO-INVALIDO",
+    "frente": "COLHEDORA-01",
+    "data": "12/10/2026",
+    "tipo": "MECANICA",
+    "area_colhida_ha": 15.0,
+    "produtividade_t_ha": 100.0,
+    "area_amostra_m2": 10.0,
+    "massa_perdida_kg": 14.5
+  }
+]

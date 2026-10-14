@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+saidas/
+dados/pendentes.json
+dados/cache_oracle.json
+.pytest_cache/

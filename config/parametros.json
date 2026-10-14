@@ -1,0 +1,12 @@
+{
+  "meta_perda_pct": 5,
+  "atr_kg_por_tonelada": 127,
+  "preco_kg_atr_reais": 1.0709,
+  "faixas": [[5, "BAIXA"], [10, "MEDIA"], [15, "ALTA"]],
+  "recomendacoes": {
+    "BAIXA": "Manter a operacao e monitorar por amostragem.",
+    "MEDIA": "Conferir regulagem, velocidade e momento da colheita.",
+    "ALTA": "Interromper para avaliar regulagem da colhedora e treinar o operador.",
+    "CRITICA": "Suspender a operacao e investigar causas tecnicas e operacionais."
+  }
+}
